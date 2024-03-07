@@ -17,7 +17,7 @@ We welcome contributions in various forms, including bug fixes, feature enhancem
 
 Please adhere to the following guidelines when contributing to the AI Khmer project:
 
-- Follow the [code of conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive community.
+- Follow the [code of conduct](../CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive community.
 - Respect the opinions and contributions of others.
 - Provide detailed descriptions and explanations for your contributions.
 - Test your changes thoroughly before submitting a pull request.
