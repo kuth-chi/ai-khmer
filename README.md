@@ -27,6 +27,6 @@ We welcome contributions from the community to help improve and expand the capab
 
 ## Get Started
 
-To learn more about the AI Khmer Project and get involved, visit our [GitHub repository](https://github.com/your-repository) and explore our documentation, codebase, and contribution guidelines.
+To learn more about the AI Khmer Project and get involved, visit our [GitHub repository](https://github.com/kuth-chi/aikhmer.git) and explore our documentation, codebase, and contribution guidelines.
 
 Let's work together to empower the Khmer language through artificial intelligence and natural language processing!
